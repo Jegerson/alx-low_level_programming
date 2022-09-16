@@ -7,7 +7,7 @@
  * printf - intrisic function for standard output
  *
  * This program tests random values for their signs
- * return: 0
+ * Return: 0
  */
 
 int main(void)
